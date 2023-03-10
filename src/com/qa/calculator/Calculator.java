@@ -3,7 +3,6 @@ package com.qa.calculator;
 public class Calculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("sum: " + sum(1,2));
 		System.out.println("mulitplication: " + multiply(1,2));
 		System.out.println("subtraction: " + subtract(1,2));
